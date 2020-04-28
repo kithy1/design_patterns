@@ -35,5 +35,4 @@ HELP.md
 .idea/vcs.xml
 design_patterns.iml
 pom.xml
-src/
 target/
